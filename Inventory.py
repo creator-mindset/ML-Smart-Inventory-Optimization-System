@@ -17,6 +17,8 @@ st.markdown("""
 div.stButton > button {
     width: 100%;
     border-radius: 10px;
+    background-color:yellow;
+    color:black;
 }
 </style>
 """, unsafe_allow_html=True)
